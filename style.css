@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: aliceblue;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background: #181a1b;
+}
+
+#smile{
+    font-size: 50px;
+}
